@@ -1,4 +1,4 @@
 interface:
   display_name: "UE＋AI 协作工作流"
-  short_description: "面向 UE 项目的需求澄清、跨 AI 交接、独立审核与授权修改工作流"
-  default_prompt: "使用 $ue-ai-workflow 恢复当前 UE 项目和任务上下文，先核对角色、阶段及权限，再按需推进。"
+  short_description: "面向 UE 项目的定向调查、个人快速实现、系统影响梳理、可选团队交接与独立审核"
+  default_prompt: "使用 $ue-ai-workflow，先定向调查相关文档和源码，确认涉及的系统与功能；小任务直接沟通，复杂功能按需用影响表；实施前给出变更摘要，用户明确确认并实施后直接修改正式工程并按证据分级验证。"
